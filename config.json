@@ -1,0 +1,7 @@
+{
+  "prefix": "c!",
+  "token": "Replace With your Token",
+  "allowedChannelId": "Replace with the bot commands channel - the bot wont allow the itself to be used in any other channel except the bot commands channel",  
+  "adminRoles": ["Admin", "Moderator"]  
+
+}
