@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@discordjs/rest": "^2.3.0",
+    "discord-api-types": "^0.37.92",
+    "discord.js": "^13.17.1",
+    "node-fetch": "^2.7.0",
+    "xml2js": "^0.6.2"
+  }
+}
