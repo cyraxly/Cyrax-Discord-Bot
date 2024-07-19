@@ -27,16 +27,16 @@ Before you begin, ensure you have the following installed:
 
 Clone the repository to your local machine:
 
-```bash
+``bash
 git clone https://github.com/cyraxly/Cyrax-Discord-Bot.git
-cd cyrax-discord-bot
+cd cyrax-discord-bot``
 
 
 ### 2. Install Dependencies
  - Navigate to the project directory and install the required dependencies:
 
-```bash
-npm install
+``bash
+npm install``
 
 
 ### 3. Configure config.json
